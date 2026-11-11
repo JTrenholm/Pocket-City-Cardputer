@@ -1,6 +1,6 @@
 # Pocket City for M5Stack Cardputer
 
-**Pocket City (v45.1)** is a macro-historical civilization and ecology simulator built exclusively for the M5Stack Cardputer. 
+**Pocket City** is a macro-historical civilization and ecology simulator built exclusively for the M5Stack Cardputer. 
 
 Turn your device into a living, breathing desk terrarium. Watch as tiny tribal bands forage for food, evolve into massive global empires, wage wars, terraform the landscape, and eventually face their own hubris through nuclear fallout or a rogue AI Singularity.
 
