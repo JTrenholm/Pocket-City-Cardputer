@@ -1,4 +1,4 @@
-# Pocket City for M5Stack Cardputer 🌍
+# Pocket City for M5Stack Cardputer
 
 **Pocket City (v45.1)** is a macro-historical civilization and ecology simulator built exclusively for the M5Stack Cardputer. 
 
@@ -6,14 +6,14 @@ Turn your device into a living, breathing desk terrarium. Watch as tiny tribal b
 
 ![Pocket City Gameplay](assets/image_2f6665.jpg) *(Note: Replace this with your image path)*
 
-## ✨ Features
+## Features
 * **A Living Planet:** A toroidal (wrap-around) globe featuring dynamic weather, continental drift, seasons, moving rainstorms, and volcanic islands that rise from the ocean.
 * **Asymmetric Evolution:** Geography dictates destiny. Tribes in lush river valleys will quickly build stone cities and ports, while tribes trapped in the arid desert or alpine tundra must struggle as farming villages.
 * **Organic Urban Growth:** Cities are not rigid squares. Metropolises dynamically form multi-lobed tendrils that hug coastlines, rivers, and highways, complete with downtown cores, timber suburbs, and protected greenbelt farms.
 * **Global Warfare & Colonization:** Empires launch tribal raids, medieval castle sieges, and atomic-era nuclear exchanges. Factions will board ships to colonize distant, fertile continents.
 * **The Cycle of Hubris:** Advanced empires that pave over their farms with factories will suffer famine, rebellions, and devastating AI Uprisings, eventually learning to rebuild as peaceful Eco-Stewards.
 
-## 📥 Installation
+## Installation
 Pocket City is distributed as a compiled binary file (`.bin`). You do not need to compile any code to run it.
 
 1. Go to the [Releases](../../releases) tab on this repository.
@@ -22,7 +22,7 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
 4. Select the **Burn** option (usually found in the tools or custom firmware section).
 5. Choose the downloaded `.bin` file and flash it directly to your Cardputer.
 
-## 🎮 Controls & HUD
+## Controls & HUD
 | Key | Action |
 | :--- | :--- |
 | **P** | Pause / Resume simulation |
@@ -43,5 +43,5 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
   * `Dec.` (Decadent - Rich but weak), `Eco.` (Post-collapse nature stewards)
   * `Ast.` (Spacefaring), `Cyb.` (AI Cyber-Collective)
 
-## 📜 Credits
-Created by Jaimason Trenholm.
+## Credits
+Created by JTrenholm.
