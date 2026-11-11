@@ -7,11 +7,11 @@ Turn your device into a living, breathing desk terrarium. Watch as tiny tribal b
 <img src="assets/main_menu.jpg" alt="Pocket City Main Menu" width="400">
 
 ## Features
-- **A Living Planet:** A toroidal (wrap-around) globe featuring dynamic weather, continental drift, seasons, moving rainstorms, and volcanic islands that rise from the ocean.
-- **Asymmetric Evolution:** Geography dictates destiny. Tribes in lush river valleys will quickly build stone cities and ports, while tribes trapped in the arid desert or alpine tundra must struggle as farming villages.
-- **Organic Urban Growth:** Cities are not rigid squares. Metropolises dynamically form multi-lobed tendrils that hug coastlines, rivers, and highways, complete with downtown cores, timber suburbs, and protected greenbelt farms.
-- **Global Warfare & Colonization:** Empires launch tribal raids, medieval castle sieges, and atomic-era nuclear exchanges. Factions will board ships to colonize distant, fertile continents.
-- **The Cycle of Hubris:** Advanced empires that pave over their farms with factories will suffer famine, rebellions, and devastating AI Uprisings, eventually learning to rebuild as peaceful Eco-Stewards.
+- **A Living Planet:** A wrap-around globe featuring dynamic weather, continental drift, seasons, moving rainstorms, and volcanic islands that rise from the ocean.
+- **Asymmetric Evolution:** Tribes in lush river valleys will quickly build stone cities and ports, while tribes trapped in the arid desert or alpine tundra must struggle as farming villages.
+- **Organic Urban Growth:** Metropolises dynamically form tendrils that hug coastlines, rivers, and highways, complete with downtown cores, timber suburbs, and protected greenbelt farms.
+- **Global Warfare & Colonization:** Empires launch tribal raids, medieval castle sieges, and atomic era nuclear exchanges. Factions will board ships to colonize distant, fertile continents.
+- **The Cycle of Hubris:** Advanced empires that pave over their farms with factories will suffer famine, rebellions, and devastating AI Uprisings, eventually learning to rebuild as peaceful Eco Stewards.
 
 <img src="assets/gameplay.jpg" alt="Pocket City Gameplay" width="400">
 
@@ -50,4 +50,4 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
 <img src="assets/info_menu.jpg" alt="Pocket City Info Menu" width="400">
 
 ## Credits
-Created by JTrenholm.
+Created by JTrenholm
