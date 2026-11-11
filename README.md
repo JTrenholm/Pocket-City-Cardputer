@@ -4,7 +4,7 @@
 
 Turn your device into a living, breathing desk terrarium. Watch as tiny tribal bands forage for food, evolve into massive global empires, wage wars, terraform the landscape, and eventually face their own hubris through nuclear fallout or a rogue AI Singularity.
 
-![Pocket City Gameplay](assets/image_2f6665.jpg) *(Note: Replace this with your image path)*
+![Pocket City Main Menu](assets/main_menu.jpg)
 
 ## Features
 * **A Living Planet:** A toroidal (wrap-around) globe featuring dynamic weather, continental drift, seasons, moving rainstorms, and volcanic islands that rise from the ocean.
@@ -12,6 +12,8 @@ Turn your device into a living, breathing desk terrarium. Watch as tiny tribal b
 * **Organic Urban Growth:** Cities are not rigid squares. Metropolises dynamically form multi-lobed tendrils that hug coastlines, rivers, and highways, complete with downtown cores, timber suburbs, and protected greenbelt farms.
 * **Global Warfare & Colonization:** Empires launch tribal raids, medieval castle sieges, and atomic-era nuclear exchanges. Factions will board ships to colonize distant, fertile continents.
 * **The Cycle of Hubris:** Advanced empires that pave over their farms with factories will suffer famine, rebellions, and devastating AI Uprisings, eventually learning to rebuild as peaceful Eco-Stewards.
+
+![Pocket City Gameplay](assets/gameplay.jpg)
 
 ## Installation
 Pocket City is distributed as a compiled binary file (`.bin`). You do not need to compile any code to run it.
@@ -35,6 +37,8 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
 | **L** | Load saved world |
 | **R** | Wipe & Generate a brand new world |
 
+![Pocket City Help Menu](assets/help_menu.jpg)
+
 ### Understanding the HUD
 * **Top Bar:** Shows live population for Cyan, Magenta, Yellow, and Red, the current Season, and your hardware battery percentage.
 * **Ledger [C] Tags:** 
@@ -42,6 +46,8 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
   * `Emp.` (Aggressive), `Rep.` (Industrious), `Unn.` (Balanced)
   * `Dec.` (Decadent - Rich but weak), `Eco.` (Post-collapse nature stewards)
   * `Ast.` (Spacefaring), `Cyb.` (AI Cyber-Collective)
+
+![Pocket City Info Menu](assets/info_menu.jpg)
 
 ## Credits
 Created by JTrenholm.
