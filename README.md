@@ -19,7 +19,7 @@ Turn your device into a living, breathing desk terrarium. Watch as tiny tribal b
 Pocket City is distributed as a compiled binary file (`.bin`). You do not need to compile any code to run it.
 
 1. Go to the [Releases](../../releases) tab on this repository.
-2. Download the latest `Pocket_City_v45.0.bin` file.
+2. Download the latest `Pocket_City_v45.3.bin` file.
 3. Open the **M5Burner** desktop application.
 4. Select the **Burn** option (usually found in the tools or custom firmware section).
 5. Choose the downloaded `.bin` file and flash it directly to your Cardputer.
@@ -27,6 +27,7 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
 ## Controls & HUD
 | Key | Action |
 | :--- | :--- |
+| **Z** | Toggle Screen / Charging Mode |
 | **P** | Pause / Resume simulation |
 | **F** | Toggle 12x Fast-Forward mode |
 | **C** | Open the Chronicle & Ledger |
