@@ -19,10 +19,11 @@ Turn your device into a living, breathing desk terrarium. Watch as tiny tribal b
 Pocket City is distributed as a compiled binary file (`.bin`). You do not need to compile any code to run it.
 
 1. Go to the [Releases](../../releases) tab on this repository.
-2. Download the latest `Pocket_City_v45.3.bin` file.
-3. Open the **M5Burner** desktop application.
-4. Select the **Burn** option (usually found in the tools or custom firmware section).
-5. Choose the downloaded `.bin` file and flash it directly to your Cardputer.
+2. Download the latest `Pocket_City_v45.4.bin` file.
+3. Go to https://web.esphome.io/.
+4. Connect your **Cardputer ADV** to your computer and identify the COM port.
+5. Select the **Upload** option.
+6. Choose the downloaded `.bin` file and flash it directly to your Cardputer.
 
 ## Controls & HUD
 | Key | Action |
