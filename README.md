@@ -33,7 +33,7 @@ Pocket City is distributed as a compiled binary file (`.bin`). You do not need t
 | **`F`** | Toggle 12x Fast Forward mode |
 | **`C`** | Open / Close the Chronicle & Ledger |
 | **`M`** | Open / Close the in game Field Guide |
-| **`W/S`** or **`;/.`** | Scroll inside the Field Guide |
+| **`W/S`** | Scroll inside the Field Guide |
 | **`H`** | Toggle top HUD visibility |
 | **`N`** | Mute / Unmute bottom popups |
 | **`X`** | Dismiss active popup message |
